@@ -1,3 +1,6 @@
+
+
+
 FROM maven
 WORKDIR /opt/server
 COPY pom.xml .
